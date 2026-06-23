@@ -577,9 +577,6 @@ section {
   color: var(--muted);
 }
 
-.project-links{
-    gap: 20px;
-}
 
 .project-link {
   color: var(--accent2);
@@ -587,7 +584,7 @@ section {
   font-weight: 500;
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: 8px;
   white-space: nowrap;
   transition: gap 0.2s;
   text-decoration: none;
