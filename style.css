@@ -736,11 +736,7 @@ section {
   transition: all 0.2s;
 }
 
-.contact-link:hover {
-  background: var(--bg3);
-  border-color: var(--border2);
-  color: var(--text);
-}
+
 
 /* ── Footer ── */
 footer {
