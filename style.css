@@ -577,6 +577,14 @@ section {
   color: var(--muted);
 }
 
+.project-links{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+}
+
 .project-link {
   color: var(--accent2);
   font-size: 0.82rem;
